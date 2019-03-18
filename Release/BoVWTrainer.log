@@ -1,0 +1,29 @@
+﻿生成启动时间为 2018/1/19 0:25:03。
+     1>项目“E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\BoVWTrainer.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing bovwtrainer.h...
+         Uic'ing bovwtrainer.ui...
+         Rcc'ing bovwtrainer.qrc...
+       ClCompile:
+         D:\编程软件\VS2012\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt5.3.1\5.3\msvc2012_opengl\include /I.\GeneratedFiles\Release /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtCore /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtGui /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtQuick /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtWidgets /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtMultimedia /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_QUICK_LIB /D QT_WIDGETS_LIB /D QT_MULTIMEDIA_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt bovwtrainer.cpp GeneratedFiles\Release\moc_bovwtrainer.cpp main.cpp source\TrainBoVWofFeature.cpp
+         bovwtrainer.cpp
+         moc_bovwtrainer.cpp
+         main.cpp
+         TrainBoVWofFeature.cpp
+         正在生成代码...
+         D:\编程软件\VS2012\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt5.3.1\5.3\msvc2012_opengl\include /I.\GeneratedFiles\Release /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtCore /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtGui /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtQuick /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtWidgets /ID:\qt5.3.1\5.3\msvc2012_opengl\include\QtMultimedia /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_QUICK_LIB /D QT_WIDGETS_LIB /D QT_MULTIMEDIA_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_bovwtrainer.cpp
+         qrc_bovwtrainer.cpp
+       Link:
+         D:\编程软件\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\Win32\Release\\BoVWTrainer.exe" /NOLOGO /LIBPATH:D:\qt5.3.1\5.3\msvc2012_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Quick.lib Qt5Widgets.lib Qt5Multimedia.lib opencv_legacy2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_nonfree2410.lib opencv_objdetect2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_videostab2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\BoVWTrainer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\Win32\Release\BoVWTrainer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\Win32\Release\BoVWTrainer.lib" /MACHINE:X86 /SAFESEH Release\bovwtrainer.obj
+         Release\qrc_bovwtrainer.obj
+         Release\moc_bovwtrainer.obj
+         Release\main.obj
+         Release\TrainBoVWofFeature.obj
+         BoVWTrainer.vcxproj -> E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\Win32\Release\BoVWTrainer.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\mt.exe /nologo /verbose /out:"E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\Win32\Release\BoVWTrainer.exe.manifest" /manifest Release\BoVWTrainer.exe.intermediate.manifest
+     1>已完成生成项目“E:\物体检测与识别\自编程序\BoVW训练程序\特征采样与BoVW训练window\BoVWTrainer\BoVWTrainer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.84

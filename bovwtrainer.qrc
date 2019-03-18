@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="BoVWTrainer">
+    <file>Resources/ooopic_1489847909.ico</file>
+    <file>Resources/ooopic_1489847914.ico</file>
+    <file>Resources/ooopic_1489847941.ico</file>
+    <file>Resources/ooopic_1489847848.ico</file>
+    <file>Resources/ooopic_1489848065.ico</file>
+    <file>Resources/ooopic_1489848066.ico</file>
+  </qresource>
+</RCC>
